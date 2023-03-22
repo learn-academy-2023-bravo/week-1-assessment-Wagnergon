@@ -54,12 +54,12 @@ The navigator: The navigator is the person who is not actively typing code but i
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: A function that accepts other functions as paramaters and returns a function.
 
-2. Jest:
+2. Jest: A javascript testing framework
 
-3. Objects:
+3. Objects: A variable that can contain many objects
 
-4. Method:
+4. Method: Code that only runs when its called
 
-5. Classes:
+5. Classes: Templates for creating objets. Similar to how it works in .css
